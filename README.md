@@ -29,6 +29,6 @@ go build
 once you've built the binary, you can run the utility on the command line:
 
 ```
-#               device            bpm
-./midisync sync /dev/snd/midiC1D1 120
+#                 device            bpm
+$ ./midisync sync /dev/snd/midiC1D1 120
 ```
